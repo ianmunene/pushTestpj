@@ -1,0 +1,28 @@
+To: Learning and practicing Laravel <munene.ian@gmail.com>
+Subject: Contact via Our Contact Form
+Message-ID: <62b83251da67b9857a95055f66866731@localhost>
+Date: Mon, 05 Jan 2015 12:50:01 +0000
+From: Learning Laravel <support@learninglaravel.net>
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html lang=3D"en-US">
+=09<head>
+=09=09<meta charset=
+=3D"utf-8">
+=09</head>
+=09<body>
+=09=09<h2>Contact Form</h2>
+
+=09=
+=09<div>
+=09=09=09Someone just contacted us:=20
+=09=09</div>
+=09=09<div=
+> Subject: Enter the subject </div>
+=09=09<div> Message: Enter your messa=
+ge </div>
+=09</body>
+</html>
